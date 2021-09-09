@@ -86,11 +86,7 @@ const CONFIG = {
 
   // Links
   lists: {
-    firstList: [
-      {
-        name: 'Dan Corrigan',
-        link: 'https://www.youtube.com/c/DanCorrigan', 
-      },
+    firstList: [ 
       {
         name: 'Randy',
         link: 'https://www.youtube.com/channel/UCUmLRMERmJrmUtgnbFfknAg',
@@ -98,6 +94,10 @@ const CONFIG = {
       {
         name: 'Disrupt',
         link: 'https://www.youtube.com/c/DisruptReality',
+      },
+	{
+        name: 'Dan Corrigan',
+        link: 'https://www.youtube.com/c/DanCorrigan', 
       },
       {
         name: 'Taeha Types',
