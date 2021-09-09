@@ -82,7 +82,7 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'video',
-  secondListIcon: 'coffee',
+  secondListIcon: 'layout',
 
   // Links
   lists: {
@@ -106,20 +106,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'r/unixporn',
+        link: 'https://reddit.com/r/unixporn',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'r/CustomKeyboards',
+        link: 'https://reddit.com/r/CustomKeyboards',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Geekhack',
+        link: 'https://geekhack.org',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Thrasher Magazine',
+        link: 'https://thrashermagazine.com',
       },
     ],
   },
