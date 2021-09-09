@@ -23,8 +23,8 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+  weatherKey: 'b8af7f92f9005002ce44486d490cd9fc',
+  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -52,15 +52,15 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Arch Wiki',
+      icon: 'terminal',
+      link: 'https://wiki.archlinux.com',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Outlook',
+      icon: 'book-open',
+      link: 'https://outlook.org',
     },
     {
       id: '5',
@@ -81,27 +81,27 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'video',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Dan Corrigan',
+        link: 'https://www.youtube.com/c/DanCorrigan', 
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Randy',
+        link: 'https://www.youtube.com/channel/UCUmLRMERmJrmUtgnbFfknAg',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Disrupt',
+        link: 'https://www.youtube.com/c/DisruptReality',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Taeha Types',
+        link: 'https://www.youtube.com/c/TaehaTypes',
       },
     ],
     secondList: [
