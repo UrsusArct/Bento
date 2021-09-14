@@ -60,7 +60,7 @@ const CONFIG = {
       id: '4',
       name: 'Outlook',
       icon: 'book-open',
-      link: 'https://outlook.org',
+      link: 'https://outlook.office365.com/mail/inbox',
     },
     {
       id: '5',
